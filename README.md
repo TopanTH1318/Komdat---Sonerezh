@@ -8,7 +8,7 @@
 # Sekilas Tentang
 [`^ Back to Top ^`](#)
 
-**Sonerezh** adalah sebuah CMS (*content management system*) aplikasi web untuk *streaming* lagu pribadi yang disimpans dan *Open Source*. Aplikasi ini digunakan untuk menyimpan lagu-lagu pribadi dan dapat diputar melalui browser yang kita miliki. Keunggulan dari **Sonerezh** adalah kita dapat *men-share* lagu-lagu pribadi kita ke beberapa orang yang kita izinkan untuk memainkan lagu-lagu yang tersebut dengan cara memberi perizinan melalui admin. Motto yang ditawarkan **Sonerezh** adalah `My Music Everywhere` yang diterapkan menyimpan lagu pribadi yang  dapat dimainkan dimana saja dan siapa saja yang kita izinkan.  
+**Sonerezh** adalah sebuah CMS (*content management system*) aplikasi web untuk *streaming* lagu pribadi yang disimpan dan *Open Source*. Aplikasi ini digunakan untuk menyimpan lagu-lagu pribadi dan dapat diputar melalui browser yang kita miliki. Keunggulan dari **Sonerezh** adalah kita dapat *men-share* lagu-lagu pribadi kita ke beberapa orang yang kita izinkan untuk memainkan lagu-lagu yang tersebut dengan cara memberi perizinan melalui admin. Motto yang ditawarkan **Sonerezh** adalah `My Music Everywhere` yang diterapkan menyimpan lagu pribadi yang dapat dimainkan dimana saja dan siapa saja yang kita izinkan dapat mendengar musik pribadi kita.  
 
 # Instalasi
 [`^ Back to Top  ^`](#)
