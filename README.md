@@ -179,7 +179,7 @@ Ketika ingin *meng-update* musik agar lebih mudah dapat menggunakan aplikasi ber
 
 
 # Cara Pemakaian
-[`^ kembali ke atas ^`](#)
+[`^ Back to Top ^`](#)
 
 Cara pemakaian **Sonerezh** cukup mudah. Berikut untuk lebih jelasnya :
 1. Sebelum menggunakan sonerezh, kita perlu login pada halaman.
@@ -212,12 +212,12 @@ Cara pemakaian **Sonerezh** cukup mudah. Berikut untuk lebih jelasnya :
 
 
 # Pembahasan
-[`^ kembali ke atas ^`](#)
+[`^ Back to Top ^`](#)
 
 
 
 
 
 # Referensi
-[`^ kembali ke atas ^`](#)
+[`^ Back to Top ^`](#)
 
