@@ -103,7 +103,7 @@
     		ErrorLog    /var/log/apache2/sonerezh-error.log
 		</VirtualHost>
     ```
-
+  anu
 10. Simpan file, aktifkan Virtual Host yang baru dan *restart* Apache Web Server.
  
     ```
@@ -198,15 +198,15 @@ Cara pemakaian **Sonerezh** cukup mudah. Berikut untuk lebih jelasnya :
 
 3. Menu **Artist** digunakan untuk mencari dan mengurutkan lagu berdasarkan artist/penyanyi. Menu **Album** digunakan untuk mencari dan mengurutkan lagu berdasarkan album. Menu **Playlist** digunakan untuk membuka playlist yang pernah kita simpan sebelumnya.
 
-- Artist
+	- Artist
 
     ![artist](https://i.pinimg.com/originals/ae/52/09/ae520933cc51334c6cc1752a19e5a3c1.png)
     
-- Album
+	- Album
 
     ![album](https://i.pinimg.com/originals/ea/e1/68/eae1681b0a728f3210634f14fad5617e.png)
 
-- Playlist
+	- Playlist
 
     ![playlist](https://i.pinimg.com/originals/3e/79/0c/3e790c3dc282c9bb887975b50088dea6.png)
 
