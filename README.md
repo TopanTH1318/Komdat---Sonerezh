@@ -55,15 +55,15 @@
 
 5. Setelah semua kebutuhan selesai kita harus *men-restart* VM yang sebelumnya telah dibuat.
 	```
-    sudo service apache2 restart
+    $ sudo service apache2 restart
     ```
     
 6. Unduh **Sonerezh** ke dalam direktori kita dengan menggunakan *Git*
 	```
-    sudo apt-get install git
+    $ sudo apt-get install git
     
-    cd /var/www/html/
-    sudo git clone --branch master http://github.com/Sonerezh/sonerezh.git
+    $ cd /var/www/html/
+    $ sudo git clone --branch master http://github.com/Sonerezh/sonerezh.git
     ```
 
 7. Ubah otorisasi kepemilikan ke user www-data (webserver)
