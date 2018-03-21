@@ -190,7 +190,7 @@ Ketika ingin *meng-update* musik agar lebih mudah dapat menggunakan aplikasi ber
 Cara pemakaian **Sonerezh** cukup mudah. Berikut untuk lebih jelasnya :
 1. Sebelum menggunakan sonerezh, kita perlu login pada halaman.
 
-    ![login](https://ibb.co/c7rHjc)
+    ![login]()
 
 2. Setelah login, kita akan masuk ke halaman *homepage*. Pada halaman ini kita dapat memilih lagu atau album yang ingin dimainkan. lalu kita dapat membuat playlist sendiri dari lagu-lagu yanng ada di sonerezh.
 
