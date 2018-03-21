@@ -55,15 +55,15 @@
 
 5. Setelah semua kebutuhan selesai kita harus *men-restart* VM yang sebelumnya telah dibuat.
 	```
-    $ sudo service apache2 restart
+    sudo service apache2 restart
     ```
     
 6. Unduh **Sonerezh** ke dalam direktori kita dengan menggunakan *Git*
 	```
-    $ sudo apt-get install git
+    sudo apt-get install git
     
-    $ cd /var/www/html/
-    $ sudo git clone --branch master http://github.com/Sonerezh/sonerezh.git
+    cd /var/www/html/
+    sudo git clone --branch master http://github.com/Sonerezh/sonerezh.git
     ```
 
 7. Ubah otorisasi kepemilikan ke user www-data (webserver)
@@ -190,7 +190,7 @@ Ketika ingin *meng-update* musik agar lebih mudah dapat menggunakan aplikasi ber
 Cara pemakaian **Sonerezh** cukup mudah. Berikut untuk lebih jelasnya :
 1. Sebelum menggunakan sonerezh, kita perlu login pada halaman.
 
-    ![login]()
+    ![login](https://ibb.co/c7rHjc)
 
 2. Setelah login, kita akan masuk ke halaman *homepage*. Pada halaman ini kita dapat memilih lagu atau album yang ingin dimainkan. lalu kita dapat membuat playlist sendiri dari lagu-lagu yanng ada di sonerezh.
 
@@ -220,8 +220,13 @@ Cara pemakaian **Sonerezh** cukup mudah. Berikut untuk lebih jelasnya :
 # Pembahasan
 [`^ Back to Top ^`](#)
 
+**Sonerezh** Merupakan suatu apliksasi audio streaming berbasis web dan dapat digunakan pada web browser apa saja. Aplikasi ini ditulis dalam bahasa pemrograman `PHP` yang support penggunaan `MySQL`. Berikut kelebihan dan kekurangan sonerezh:
 
+**KELEBIHAN**
+1.
 
+**KEKURANGAN**
+1.
 
 
 # Referensi
