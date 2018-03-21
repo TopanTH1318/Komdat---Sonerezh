@@ -55,15 +55,15 @@
 
 5. Setelah semua kebutuhan selesai kita harus *men-restart* VM yang sebelumnya telah dibuat.
 	```
-    sudo service apache2 restart
+    $ sudo service apache2 restart
     ```
     
 6. Unduh **Sonerezh** ke dalam direktori kita dengan menggunakan *Git*
 	```
-    sudo apt-get install git
+    $ sudo apt-get install git
     
-    cd /var/www/html/
-    sudo git clone --branch master http://github.com/Sonerezh/sonerezh.git
+    $ cd /var/www/html/
+    $ sudo git clone --branch master http://github.com/Sonerezh/sonerezh.git
     ```
 
 7. Ubah otorisasi kepemilikan ke user www-data (webserver)
@@ -190,43 +190,42 @@ Ketika ingin *meng-update* musik agar lebih mudah dapat menggunakan aplikasi ber
 Cara pemakaian **Sonerezh** cukup mudah. Berikut untuk lebih jelasnya :
 1. Sebelum menggunakan sonerezh, kita perlu login pada halaman.
 
-    ![login]()
+    ![login](https://i.pinimg.com/originals/d3/2d/58/d32d587ebcaa5426c1ed6c8a63da4c6b.png)
 
 2. Setelah login, kita akan masuk ke halaman *homepage*. Pada halaman ini kita dapat memilih lagu atau album yang ingin dimainkan. lalu kita dapat membuat playlist sendiri dari lagu-lagu yanng ada di sonerezh.
 
-    ![mainpage]()
+    ![homepage](https://i.pinimg.com/originals/ae/1f/57/ae1f570965e4763ce7325f267d26f685.png)
 
 3. Menu **Artist** digunakan untuk mencari dan mengurutkan lagu berdasarkan artist/penyanyi. Menu **Album** digunakan untuk mencari dan mengurutkan lagu berdasarkan album. Menu **Playlist** digunakan untuk membuka playlist yang pernah kita simpan sebelumnya.
 
-    ![order]()
+    ![artist](https://i.pinimg.com/originals/ae/52/09/ae520933cc51334c6cc1752a19e5a3c1.png)
+    
+    ![album](https://i.pinimg.com/originals/ea/e1/68/eae1681b0a728f3210634f14fad5617e.png)
+    
+    ![playlist](https://i.pinimg.com/originals/3e/79/0c/3e790c3dc282c9bb887975b50088dea6.png)
 
 4. Menu **Database Update** berguna untuk memperbaharui lagu di sonerezh jika ada lagu yang ditambahkan oleh admin.
 
-    ![catalog]()
+    ![dbupdate](https://i.pinimg.com/originals/51/4b/1c/514b1cb2dc6b034bdaa61b8f4d6c63fc.png)
 
 5. Menu **Settings** berguna untuk mengatur konfigurasi sonerezh.
 
-    ![customer]()
+    ![settings](https://i.pinimg.com/originals/3c/fc/1c/3cfc1ca12c3e2658f1e7899292ea84bd.png)
 
 6. Menu **Users** berguna untuk mengatur akun sonerezh.
 
-    ![cs]()
+    ![users](https://i.pinimg.com/originals/99/dd/93/99dd93ae29bbb643e5c03f3457783ef6.png)
 
 7. Untuk mengisi, menghapus dan meng-update lagu, yang bisa melakukannya hanya user dengan role administator. untuk melakukannya, diperlukan aplikasi pihak ketiga yaitu **cloud commander**. pada cloud commander, kita dapat  melakukan drag and drop musik yang diinginkan. user perlu melakukan update database jika ada perubahan pada database musik.
 
-    ![stat]()
+    ![cloudcommander](https://i.pinimg.com/originals/6e/9f/82/6e9f8299ae2dc82d14842900abe0faec.png)
 
 
 # Pembahasan
 [`^ Back to Top ^`](#)
 
-**Sonerezh** Merupakan suatu apliksasi audio streaming berbasis web dan dapat digunakan pada web browser apa saja. Aplikasi ini ditulis dalam bahasa pemrograman `PHP` yang support penggunaan `MySQL`. Berikut kelebihan dan kekurangan sonerezh:
 
-**KELEBIHAN**
-1.
 
-**KEKURANGAN**
-1.
 
 
 # Referensi
