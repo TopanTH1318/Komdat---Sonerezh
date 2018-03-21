@@ -227,4 +227,5 @@ Cara pemakaian **Sonerezh** cukup mudah. Berikut untuk lebih jelasnya :
 # Referensi
 [`^ Back to Top ^`](#)
 1. [About Sonerezh](https://www.sonerezh.bzh/docs/en/introduction.html) - Sonerezh documentation
+2. [How to Install Sonerezh on Ubuntu 16.04](https://www.sonerezh.bzh/docs/en/installation.html#installation-example-on-ubuntu-server) - Sonerezh installation
 
