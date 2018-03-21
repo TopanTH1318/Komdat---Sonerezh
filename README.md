@@ -154,19 +154,25 @@ Untuk konfigurasi umum aplikasi **Sonerezh** dapat ditemukan pada halaman *Setti
 [`^ Back to Top ^`](#)
 
 Ketika ingin *meng-update* musik agar lebih mudah dapat menggunakan aplikasi berbasis web yaitu **Cloud Commander** dengan cara:
-1. Masuk ke halaman **Cloud Commander** menggunakan link [http://localhost:7000](http://localhost:7000).
+1. Jalankan perintah untuk menjalankan **Cloud Commander**
+
+	```
+	$ cloudcmd
+	```
+
+2. Masuk ke halaman **Cloud Commander** menggunakan link [http://localhost:7000](http://localhost:7000).
 
 ![Cloud Commander](https://i.pinimg.com/originals/cb/21/36/cb2136898fffa6c8832c8eb71a18b830.png)
     
-2. Navigasikan ke dalam folder root musik **Sonerezh**.
+3. Navigasikan ke dalam folder root musik **Sonerezh**.
 
 ![Navigasi](https://i.pinimg.com/originals/2e/80/ce/2e80ce2fbcfa6c51b0b31852020462fa.png)
 
-3. *Drag and Drop* file/folder musik dari komputer anda ke dalam **Cloud Commander**.
+4. *Drag and Drop* file/folder musik dari komputer anda ke dalam **Cloud Commander**.
 
 ![DragNDrop](https://i.pinimg.com/originals/6e/9f/82/6e9f8299ae2dc82d14842900abe0faec.png)
 
-4. Setelah itu masuk ke halaman setting pada **Sonerezh**, pada bagian menu *Database Management* klik tombol *Database Update*.
+5. Setelah itu masuk ke halaman setting pada **Sonerezh**, pada bagian menu *Database Management* klik tombol *Database Update*.
 
 ![Detected](https://i.pinimg.com/originals/46/58/99/46589934b61362bdf87eb28fef50634b.png)
 
