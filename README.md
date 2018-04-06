@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://www.dadall.info/data/images/logo/sonerezhlogo.png"></h1>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi Umum](#konfigurasi-umum) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:|:---:
+<center>[ Sekilas Tentang ](#sekilas-tentang) | [ Instalasi ](#instalasi) | [ Konfigurasi Umum ](#konfigurasi-umum) | [ Cara Pemakaian ](#cara-pemakaian) | [ Pembahasan ](#pembahasan) | [ Referensi ](#referensi)<center/>
+<center>:---:|:---:|:---:|:---:|:---:|:---:<center/>
 
 
 
