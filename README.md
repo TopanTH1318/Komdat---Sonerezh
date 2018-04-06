@@ -249,6 +249,6 @@ Apabila kita membandingkan Sonerezh dengan *streamer* lagu online seperti Spotif
 [`^ Back to Top ^`](#)
 1. [About Sonerezh](https://www.sonerezh.bzh) - Sonerezh official website
 2. [Sonerezh Documentation](https://www.sonerezh.bzh/docs/en) - Sonerezh official documentation
-3. [Install Apache, MySQL, PHP on Virtual Private Server with VirtualBox](https://github.com/auriza/komdat-lab/blob/master/p01.md)
+3. [Install Apache, MySQL, PHP on Virtual Private Server with VirtualBox](https://github.com/auriza/komdat-lab/blob/master/p01.md) - Install Web Server and dependencies on virtual private server (VPS) Linux based by Auriza Akbar
 4. [How to Install Sonerezh on Ubuntu 16.04](https://www.sonerezh.bzh/docs/en/installation.html#installation-example-on-ubuntu-server) - Sonerezh installation on Ubuntu Server
 5. [Sonerezh on GitHub](https://github.com/sonerezh/sonerezh) - Sonerezh source code on GitHub.
