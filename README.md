@@ -227,7 +227,7 @@ Cara pemakaian **Sonerezh** cukup mudah. Berikut untuk lebih jelasnya :
 
 **Sonerezh** dibangun menggunakan bahasa pemrograman `PHP` dengan framework CakePHP dan menggunakan database dari MySQL. **Sonerezh** merupakan salah satu aplikasi web untuk *streaming* lagu-lagu pribadi yang disimpan secara online yang cukup simple dan mudah digunakan dengan kelebihan diantaranya: 
 - Tampilan cukup simple (*minimalist*) dan ringan saat digunakan..
-- Tidak menggunakan memori terlalu besar.
+- Ringan sekali (respon sangat cepat) dan tidak menggunakan memori terlalu besar.
 - Fitur *Search* yang cukup detail, dapat mencari berdasarkan album, artist, ataupun judul lagu.
 - Memiliki keamanan yang cukup terjamin karena tidak sembarang orang bisa mengakses atau mendengarkan musik, harus melalui undangan atau *invite* dari Admin.
 - Memiliki konversi format lagu agar lagu tersebut dapat dimainkan.
@@ -249,5 +249,6 @@ Apabila kita membandingkan Sonerezh dengan *streamer* lagu online seperti Spotif
 [`^ Back to Top ^`](#)
 1. [About Sonerezh](https://www.sonerezh.bzh) - Sonerezh official website
 2. [Sonerezh Documentation](https://www.sonerezh.bzh/docs/en) - Sonerezh official documentation
-3. [How to Install Sonerezh on Ubuntu 16.04](https://www.sonerezh.bzh/docs/en/installation.html#installation-example-on-ubuntu-server) - Sonerezh installation on Ubuntu Server
-4. [Sonerezh on GitHub](https://github.com/sonerezh/sonerezh) - Sonerezh source code on GitHub.
+3. [Install Apache, MySQL, PHP on Virtual Private Server with VirtualBox](https://github.com/auriza/komdat-lab/blob/master/p01.md)
+4. [How to Install Sonerezh on Ubuntu 16.04](https://www.sonerezh.bzh/docs/en/installation.html#installation-example-on-ubuntu-server) - Sonerezh installation on Ubuntu Server
+5. [Sonerezh on GitHub](https://github.com/sonerezh/sonerezh) - Sonerezh source code on GitHub.
