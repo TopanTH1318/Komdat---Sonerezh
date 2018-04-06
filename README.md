@@ -225,7 +225,7 @@ Cara pemakaian **Sonerezh** cukup mudah. Berikut untuk lebih jelasnya :
 # Pembahasan
 [`^ Back to Top ^`](#)
 
-**Sonerezh** ditulis dalam bahasa pemrograman `PHP` yang support untuk penggunaan MySQL. **Sonerezh** merupakan salah satu aplikasi web untuk *streaming* lagu-lagu pribadi yang disimpan secara online yang cukup simple dan mudah digunakan dengan kelebihan diantaranya: 
+**Sonerezh** dibangun menggunakan bahasa pemrograman `PHP` dengan framework CakePHP dan menggunakan database dari MySQL. **Sonerezh** merupakan salah satu aplikasi web untuk *streaming* lagu-lagu pribadi yang disimpan secara online yang cukup simple dan mudah digunakan dengan kelebihan diantaranya: 
 - Tampilan cukup simple (*minimalist*) dan ringan saat digunakan..
 - Tidak menggunakan memori terlalu besar.
 - Fitur *Search* yang cukup detail, dapat mencari berdasarkan album, artist, ataupun judul lagu.
